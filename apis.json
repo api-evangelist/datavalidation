@@ -1,0 +1,62 @@
+{
+    "name": "DataValidation",
+    "description": "<p>A complete solution for email marketers and ESPs. The most comprehensive API for realtime email validation, email list validation, and automating daily list maintenance with Email Assurance. Check email list quality, or monitor list quality over time with free vetting tokens included with every plan. Analyze the quality of an email address at the point of signup. Our API can handle extremely high volume. Clean email lists quickly and receive comprehensive email deliverability data on each email address. Your entire list is returned to you with Email Assurance grades ranging from A+ to F. Automate your email list maintenance with our API. Protect your deliverability by integrating the complete Email Assurance solution. Set up daily list monitoring, weekly list maintenance, and the realtime email validation behind your webform. We analyze all email data daily, ensuring that your email list is always ready for deployment.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/data-validation-api.png",
+    "tags": [
+        "api provider",
+        "data",
+        "emails",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/datavalidation\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "DataValidation",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/data-validation-api.png",
+            "humanURL": "https:\/\/developer.datavalidation.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/datavalidation-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "API.json - Authoritative",
+            "url": "https:\/\/developer.datavalidation.com\/apis.json"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.datavalidation.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.datavalidation.com\/blog\/feed.xml"
+        },
+        {
+            "type": "Documentation",
+            "url": "https:\/\/developer.datavalidation.com\/docs"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/developer.datavalidation.com\/#pricing"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/datavalidation"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/developer.datavalidation.com"
+        }
+    ]
+}
