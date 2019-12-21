@@ -8,8 +8,8 @@
         "emails",
         "have api"
     ],
-    "created": "2019-12-19",
-    "modified": "2019-12-19",
+    "created": "2019-12-21",
+    "modified": "2019-12-21",
     "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/datavalidation\/master\/apis.json",
     "specificationVersion": "0.14",
     "apis": [
@@ -23,7 +23,7 @@
             "properties": [
                 {
                     "type": "x-postman-collecction",
-                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/datavalidation-postman-collection.json"
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/datavalidation\/master\/datavalidation-postman-collection.json"
                 }
             ]
         }
@@ -33,6 +33,10 @@
         {
             "type": "API.json - Authoritative",
             "url": "https:\/\/developer.datavalidation.com\/apis.json"
+        },
+        {
+            "type": "APIs.json",
+            "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/apis.json"
         },
         {
             "type": "Blog",
